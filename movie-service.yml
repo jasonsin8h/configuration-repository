@@ -3,4 +3,4 @@ spring:
     console:
       enabled: true
 premium:
-  genre: Horror
+  genre: Thriller
